@@ -1,3 +1,13 @@
+
+# 獨立測試（Arthur）
+這原本是在 [`@line/bot-sdk`] 裡的 example project；為了單獨測試，建立此專案以備查
+
+已經註解 Ngrok 的程式片段，可直接 push 至 Heroku 運行，也請注意要增加相關環境變數才能正常啟動服務
+
+node : 12.13.1
+
+## 以下為原專案的 readme
+
 # Kitchen Sink Bot
 
 A kitchen-sink LINE bot example
